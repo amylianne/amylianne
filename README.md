@@ -1,6 +1,6 @@
 ### HELLO WORLD, I'm Amy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
+- 🌱 Currently working as a Data Engineer at an EdTech company 
 - 🌱 Recent graduate of the Bright Network Technology Academy, a 3 month full-stack coding bootcamp 
 - 🎓 A background in mechanical engineering
 - 👯 I’m looking to collaborate on fun and challenging projects
